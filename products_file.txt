@@ -1,0 +1,21 @@
+1,1,1,20,800,'UAH',89.99,'Flour',60,'https://www.monaco/image/flour.jpg','Suitable for baking',350
+2,2,1,25,350,'UAH',26.50,'Bread',300,'https://www.monaco/image/bread.jpg','The promotion is valid until 15.10.2024',240
+3,3,1,15,180,'UAH',63.30,'Butter',90,'https://www.monaco/image/butter.jpg','Best before 20.10.2024',270
+4,4,1,7,250,'UAH',19.00,'Tomatoes',110,'https://www.monaco/image/tomatoes.jpg','Greenhouse grown',235
+5,5,1,15,300,'UAH',25.00,'Milk',150,'https://www.monaco/image/milk.jpg','Fresh product',250
+6,6,1,35,1500,'UAH',38.99,'Backpack',120,'https://www.sinsay/image/backpack.jpg','Waterproof material',330
+7,7,1,3,5,'UAH',3.75,'Pencil',600,'https://www.sinsay/image/pencil.jpg','HB graphite',320
+8,8,1,12,1200,'UAH',79.99,'Office Chair',30,'https://www.sinsay/image/officechair.jpg','Ergonomic design',550
+9,9,1,10,200,'UAH',43.00,'Stapler',125,'https://www.sinsay/image/stapler.jpg','Includes 1000 staples',420
+10,10,1,6,15,'UAH',8.00,'Glue Stick',300,'https://www.sinsay/image/gluestick.jpg','Non-toxic, 20g',290
+11,11,1,10,400,'UAH',33.50,'Apples',410,'https://www.fiyershop/image/apples.jpg','Fresh red apples',345
+12,12,1,20,800,'UAH',44.00,'Oranges',250,'https://www.fiyershop/image/oranges.jpg','Imported from Spain',300
+13,13,1,5,500,'UAH',11.00,'Bananas',500,'https://www.fiyershop/image/bananas.jpg','Rich in potassium',310
+14,14,1,15,200,'UAH',22.99,'Cherries',150,'https://www.fiyershop/image/cherries.jpg','Organic cherries',370
+15,17,1,6,250,'UAH',27.40,'Carrots',350,'https://www.fiyershop/image/carrots.jpg','Rich in vitamin A',360
+16,18,1,8,200,'UAH',24.70,'Potatoes',350,'https://www.fiyershop/image/potatoes.jpg','Good for baking',340
+17,21,1,20,500,'UAH',23.50,'Bread',200,'https://www.atbshop/image/bread.jpg','The promotion is valid until 15.10.2024',250
+18,22,1,15,300,'UAH',30.00,'Milk',150,'https://www.atbshop/image/milk.jpg','Fresh product',230
+19,23,1,10,1000,'UAH',119.99,'Flour',55,'https://www.atbshop/image/flour.jpg','Suitable for baking',210
+20,24,1,30,200,'UAH',15.30,'Butter',190,'https://www.atbshop/image/butter.jpg','Best before 20.10.2024',420
+21,25,1,5,50,'UAH',9.80,'Eggs',500,'https://www.aurrora/image/eggs.jpg','Pack of 10',240
